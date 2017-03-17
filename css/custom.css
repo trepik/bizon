@@ -1,0 +1,22 @@
+.gallery {
+  height: auto;
+  width: 100%;
+  float: left;
+}
+
+.gallery figure {
+  float: left;
+  margin: 0 3px 3px 0;
+}
+
+figure a img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+.gallery figcaption {
+  display: none;
+}
+
