@@ -1,0 +1,32 @@
+baseURL = "http://repik.sk/"
+languageCode = "sk"
+title = "Repíkov rázcestník"
+theme = "hugrid"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "publish"
+
+[params]
+  # Meta
+  title = "Repíkov rázcestník"
+  subtitle = "Toto všetko nájdeš u Repíka..."
+  author = "Tomáš Repík"
+  description = "Repíkov rázcestník slúži ako pevný bod všetkých stránok pod doménou repik.sk."
+  keywords = "Repík, Repik, Rozcestník"
+
+  # Body background color
+  bodybgcolor = "#ffffff"
+
+  # Preview container button text
+  buttontext = "Pokračuj"
+
+  #  Footer text
+  footertext = """(c) {year} repik.sk <br/>
+Designed by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub) <br/>
+Generated with [Hugo](http://gohugo.io)"""
+
+  # add extra-css
+  # custom_css = ['css/repik.css', 'css/extra2.css']
+  custom_css = ['css/repik.css']

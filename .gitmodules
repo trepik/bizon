@@ -1,0 +1,7 @@
+[submodule "themes/hugrid"]
+	path = themes/hugrid
+	url = https://github.com/aerohub/hugrid.git
+[submodule "publish"]
+	path = publish
+	url = https://github.com/trepik/trepik.github.io.git
+	branch = master

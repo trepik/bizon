@@ -1,0 +1,21 @@
+[[items]]
+title = "Tomáš CV"
+image = "images/tomas-hat.jpg"
+thumb = "images/tomas-hat_thmb.jpg"
+alt = "tomas-cv"
+description = "Tomáš's career profile."
+url = "http://repik.sk/cv"
+[[items]]
+title = "Drahomíra Životopis"
+image = "images/drahomira.jpg"
+thumb = "images/drahomira_thmb.jpg"
+alt = "drahomira-cv"
+description = "Životopis Drahomíry Repíkovej."
+url = "http://repik.sk/drepikova"
+[[items]]
+title = "29. oddiel Albatrosi"
+image = "images/albatrosi-vlajka.jpg"
+thumb = "images/albatrosi-vlajka_thmb.jpg"
+alt = "albatrosi"
+description = "Oficiálna stránka 29. oddielu skautov Albatrosi."
+url = "http://repik.sk/albatrosi"
