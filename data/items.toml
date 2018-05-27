@@ -1,17 +1,17 @@
 [[items]]
 title = "Tomáš CV"
-image = "images/tomas-hat.jpg"
-thumb = "images/tomas-hat_thmb.jpg"
+image = "images/tomas.jpg"
+thumb = "images/tomas_thmb.jpg"
 alt = "tomas-cv"
 description = "Tomáš's career profile."
-url = "http://repik.sk/cv"
+url = "http://repik.sk/tomas"
 [[items]]
 title = "Drahomíra Životopis"
 image = "images/drahomira.jpg"
 thumb = "images/drahomira_thmb.jpg"
 alt = "drahomira-cv"
 description = "Životopis Drahomíry Repíkovej."
-url = "http://repik.sk/drepikova"
+url = "http://repik.sk/drahomira"
 [[items]]
 title = "29. oddiel Albatrosi"
 image = "images/albatrosi-vlajka.jpg"
