@@ -1,4 +1,4 @@
-baseURL = "http://repik.sk/"
+baseURL = "https://repik.sk/"
 languageCode = "sk"
 title = "Repíkov rázcestník"
 theme = "hugrid"
@@ -14,7 +14,7 @@ publishdir = "public"
   subtitle = "Toto všetko nájdeš u Repíka..."
   author = "Tomáš Repík"
   description = "Repíkov rázcestník slúži ako pevný bod všetkých stránok pod doménou repik.sk."
-  keywords = "Repík, Repik, Rozcestník"
+  keywords = "Repík, Repik, Rázcestník"
 
   # Body background color
   bodybgcolor = "#ffffff"
@@ -24,8 +24,8 @@ publishdir = "public"
 
   #  Footer text
   footertext = """(c) {year} repik.sk <br/>
-Designed by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub) <br/>
-Generated with [Hugo](http://gohugo.io)"""
+Designed by [Codrops](https://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub) <br/>
+Generated with [Hugo](https://gohugo.io)"""
 
   # add extra-css
   # custom_css = ['css/repik.css', 'css/extra2.css']
