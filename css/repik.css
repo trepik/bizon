@@ -1,5 +1,9 @@
 
 footer {
   width: 90%;
-  padding: 10px 60px 30px
+  padding: 10px 60px 30px;
+}
+
+.og-details p {
+  color: #BF1A2F;
 }
